@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script src="Task1.js"></script>
+</body>
+</html>
+
+
+// Declare variables using var, let, and const
+var name = "Sakthi";
+let age = 19;
+const country = "India";
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Country:", country);
+
+name = "deepika";
+age = 19;
+
+console.log("Updated Name:", name);
+console.log("Updated Age:", age);
